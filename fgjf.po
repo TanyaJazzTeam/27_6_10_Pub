@@ -33,3 +33,7 @@ msgstr ""
 #: /views/partials/footer.j2:43
 msgid "We are the champions, my friends And we’ll keep on fighting…till the end."
 msgstr ""
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
+msgid "So you can keep knocking, But won’t knock me down."
+msgstr ""
