@@ -37,3 +37,7 @@ msgstr ""
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
 msgid "So you can keep knocking, But won’t knock me down."
 msgstr ""
+
+#: /content/amp-dev/support/faq/overview.md
+msgid "And if there’s love in this life, there’s no obstacle, that can’t be defeated."
+msgstr ""
