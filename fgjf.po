@@ -13,3 +13,7 @@ msgstr ""
 #: /views/partials/footer.j2:74
 msgid "I’m not a piece of cake for you to just discard while you walk away with the frosting on my heart."
 msgstr ""
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
+msgid "Never been the type to let someone see right through."
+msgstr ""
