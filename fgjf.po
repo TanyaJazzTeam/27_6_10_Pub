@@ -21,3 +21,7 @@ msgstr ""
 #: /views/partials/footer.j2:71
 msgid "I got this feeling inside my bones. It goes electric, wavey when I turn it on."
 msgstr ""
+
+#: /views/partials/footer.j2:72
+msgid "Leave behind your heartache, cast away. Just another product of today. Rather be the hunter than the prey."
+msgstr ""
