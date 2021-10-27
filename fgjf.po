@@ -9,3 +9,7 @@ msgstr ""
 #: /views/partials/format-visuals/websites.j2:7
 msgid "Don’t ever let anyone tell you, You ain’t beautiful."
 msgstr ""
+
+#: /views/partials/footer.j2:74
+msgid "I’m not a piece of cake for you to just discard while you walk away with the frosting on my heart."
+msgstr ""
