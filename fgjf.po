@@ -1,0 +1,3 @@
+#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
+msgid "Had to lose my way to know which road to take."
+msgstr ""
