@@ -29,3 +29,7 @@ msgstr ""
 #: /views/partials/banner.j2:5
 msgid "Hey! I’ma keep running cause a winner don’t quit on themselves. "
 msgstr ""
+
+#: /views/partials/footer.j2:43
+msgid "We are the champions, my friends And we’ll keep on fighting…till the end."
+msgstr ""
